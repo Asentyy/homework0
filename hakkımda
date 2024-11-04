@@ -6,7 +6,7 @@
     <title>Enes Genç Ödev</title>
     <style>
         body{
-            background-image: url("image/background.jpg");
+            background-image: url("background.jpg");
             background-size: cover;
             background-repeat: no-repeat;
 
@@ -26,7 +26,7 @@ Ortaokulunda daha sonrasında burslu olarak Aydın Okullarına geçtim. Liseyi �
 Bilgisayar Programcılığı Okumaktayım, bu bölümü tercih etme sebebim programlarla ilgilenmeyi sevdiğim için, kullandığım programların sorunlarını çözebilmem ve hayalim olan web
 geliştiriciliğinin temelini atabilmek. Hobilerime gelecek olursak spor yapmayı, oyun oynamayı, manga okumayı, anime ve dizi izlemeyide severim.
     </big></p></h3></div>
-    <a href="https://www.instagram.com/cenesgenc" target="_blank"> <h4><img  src="image/insta.png" width="4%" alt="Resim Yok"</h4> </a>
+    <a href="https://www.instagram.com/cenesgenc" target="_blank"> <h4><img  src="insta.png" width="4%" alt="Resim Yok"</h4> </a>
 </body>
 </html>
 
